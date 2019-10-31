@@ -1,0 +1,74 @@
+.masthead-avatar{
+    border-radius:50%;
+    box-shadow: 0px 4px 6px 2px lightgrey;
+}
+.name h1{
+    color: #4A4E69 !important;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+.profession h3{
+    color: #4A4E69 !important;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+.masthead-subheading{
+    color: #4A4E69 !important;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+.lead{
+    color: #4A4E69 !important;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.page-section-heading {
+    color: #4A4E69 !important;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+.divider-custom .divider-light .divider-custom-line{
+    background: #4A4E69;
+}
+.card-body {
+    color:#4A4E69 !important;
+}
+.card-header{
+    background-color: white !important;
+    border-bottom: none !important;
+}
+.card{
+    border: none !important;
+}
+.btn-link {
+    color:#2c3e50 !important;
+}
+.btn-link:hover{
+    color:#2c3e50 !important;
+}
+/*.carousel-item{*/
+/*    text-align: center;*/
+/*}*/
+.carousel-item{
+    display: none;
+}
+.active{
+    display: block;
+}
+/*#portfolio{*/
+/*    background: #2c3e50;*/
+/*}*/
+.carousel-inner{
+    justify-content: center;
+    display: flex;
+}
+#carouselExampleIndicators{
+    padding-top: 4rem;
+}
+.carousel-control-prev-icon{
+    background-color: #2C3E50 !important;
+}
+.carousel-control-next-icon {
+    background-color: #2C3E50 !important;
+}
